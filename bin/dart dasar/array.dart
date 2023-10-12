@@ -1,5 +1,5 @@
 void main(){
-    var nama = ["Johanna", "Bayu", "Putri", "Deni"];
+    var nama = ["Bayu", "Deni", "Yomi", "Jo"];
     var umur = [22, 22, 20, 20];
 
       var getName = nama[1];

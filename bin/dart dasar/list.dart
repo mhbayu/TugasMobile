@@ -1,8 +1,8 @@
 void main () {
   var names = <String>[];
 
-  names.add('Johanna');
-  names.add('Angelica');
+  names.add('Bayu');
+  names.add('Hariadi');
 
   print(names);
   print(names.length);

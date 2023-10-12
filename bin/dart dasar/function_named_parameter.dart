@@ -3,9 +3,9 @@ void sayHello({String? firstName, String? lastName}) {
 }
 
 void main () {
-  sayHello(firstName: 'Johanna', lastName: 'Angelica');
-  sayHello(lastName: 'Haradi', firstName: 'Bayu');
+  sayHello(firstName: 'Bayu', lastName: 'Hariadi');
+  sayHello(lastName: 'Angelica', firstName: 'Johanna');
   sayHello();
-  sayHello(firstName: 'Johanna');
-  sayHello(lastName: 'Johanna');
+  sayHello(firstName: 'Bayu');
+  sayHello(lastName: 'Bayu');
 }

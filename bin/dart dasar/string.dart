@@ -1,6 +1,6 @@
 void main () {
-String firstName = 'Johanna';
-String lastName = "Angelica";
+String firstName = 'Muhammad';
+String lastName = "Bayu";
 
 var fullName='$firstName ${lastName}';
 

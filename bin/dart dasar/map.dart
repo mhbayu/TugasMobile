@@ -1,12 +1,12 @@
 void main (){
   var name = <String, String> {};
-  name['first'] = 'Johanna';
-  name['middle'] = 'Angelica';
-  name['last'] = 'Madjiah';  
+  name['first'] = 'Muhammad';
+  name['middle'] = 'Bayu';
+  name['last'] = 'Hariadi';  
 
   print(name['first']);
 
-  name['middle'] = 'Hariadi';
+  name['middle'] = 'Bayu';
   print(name);
 
   name.remove('last');

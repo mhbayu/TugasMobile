@@ -2,7 +2,7 @@
 ///yang biasanya akan digenerate menjadi dart doc
 void main(){
   //This is variable
-  var name = 'Johanna Angelica';
+  var name = 'Muhammad Bayu Hariadi';
 
   /**
    * Ini adalah komentar

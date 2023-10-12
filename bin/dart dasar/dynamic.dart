@@ -5,6 +5,6 @@ void main (){
   variable=true;
   print(variable);
 
-  variable='Johanna';
+  variable='Bayu';
   print(variable);
 }

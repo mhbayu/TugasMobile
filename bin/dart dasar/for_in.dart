@@ -1,5 +1,5 @@
 void main () {
-  var array = <String>['Johanna', 'Angelica'];
+  var array = <String>['Muhammad', 'Bayu', 'Hariadi'];
 
   for (var value in array) {
     print(value);

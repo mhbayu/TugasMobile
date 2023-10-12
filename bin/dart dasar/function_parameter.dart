@@ -3,6 +3,6 @@ void sayHello(String firstName, String lastName) {
 }
 
 void main () {
-  sayHello('Johanna', 'Angelica');
   sayHello('Bayu', 'Hariadi');
+  sayHello('Johanna', 'Angelica');
 }
