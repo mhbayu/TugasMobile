@@ -1,9 +1,9 @@
 void main(){
-  String nama ="Bayu";
+  String nama ="Johanna";
   int umur = 22;
   String menikah = "mau";
-  double tinggi = 182;
-  var alamat = "Tanjung, Indonesia";
+  double tinggi = 160;
+  var alamat = "Kuala Kapuas, Indonesia";
 
   print("Nama saya $nama");
   print("Umur saya $umur tahun");
