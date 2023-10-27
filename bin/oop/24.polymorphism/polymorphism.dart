@@ -14,13 +14,13 @@ class VicePresident extends Manager {
 }
 
 void main() {
-  Employee employee = Employee('putri');
+  Employee employee = Employee('bayu');
   print(employee);
 
-  employee = Manager('putri');
+  employee = Manager('bayu');
   print(employee);
 
-  employee = VicePresident('putri');
+  employee = VicePresident('bayu');
   print(employee);
 }
 
@@ -30,7 +30,7 @@ void sayHello(Employee employee) {
 }
 
 //void main() {
-  //sayHello(Employee('putri'));
-  //sayHello(Manager('putri'));
-  //sayHello(vicePresident('putri'));
+  //sayHello(Employee('bayu'));
+  //sayHello(Manager('bayu'));
+  //sayHello(vicePresident('bayu'));
 //}

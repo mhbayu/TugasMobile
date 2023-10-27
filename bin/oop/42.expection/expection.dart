@@ -1,5 +1,5 @@
 class Application {
-  static final String author = "putri setyowati";
+  static final String author = "muhammad bayu hariadi";
   static final String name = "Belajar Pemrograman dart";
 }
 

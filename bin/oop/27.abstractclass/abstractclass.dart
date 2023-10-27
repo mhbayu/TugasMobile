@@ -10,7 +10,7 @@ class City extends Location {
 }
 
 void main() {
-  var city = City('bjm');
+  var city = City('tjg');
 
   // var location = Location(); // error
 }

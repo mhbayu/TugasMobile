@@ -1,4 +1,4 @@
 //var person = Person();
-  //person.name="Putri setyowati";
+  //person.name="Muhammad Bayu Hariadi";
 
-//  person.sayHello("pucuk");
+//  person.sayHello("gagak");

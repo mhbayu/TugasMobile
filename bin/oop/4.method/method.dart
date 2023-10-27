@@ -1,5 +1,5 @@
 class Person {
-  String name = "Putri";
+  String name = "Bayu";
   String? address;
   final String country = "indonesia";
 
